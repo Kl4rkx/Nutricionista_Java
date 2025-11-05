@@ -1,0 +1,404 @@
+acederas;crudas;18;2,50;0,40;2,20;hotaliza
+acederas;cocidas;5;0,90;0,10;1,10;hotaliza
+acelgas;crudas;18;1,90;0,30;2,40;hotaliza
+achicoria;cruda;16;1,20;0,20;2,90;hotaliza
+achicoria;tostada;280;28,10;2,00;42,00;hotaliza
+ajo;bulbo;115;6,60;0,10;26,10;hotaliza
+alcachofa;cruda;67;3,00;0,80;18,80;hotaliza
+alcachofa;cocidas;16;1,10;0,20;3,50;hotaliza
+apio;crudos;19;1,20;0,20;4,50;hotaliza
+apio;cocidos;9,5;1,00;0,15;2,10;hotaliza
+batata;cruda;127;2,10;0,60;29,50;hotaliza
+batata;cocidas;98;1,70;0,50;26,00;hotaliza
+berenjena;cruda;19;1,20;0,20;4,90;hotaliza
+berros;crudos;25;2,10;0,30;47,70;hotaliza
+brocoli;crudos;29;3,20;0,20;4,90;hotaliza
+brocoli;cocidos;17;1,30;0,13;4,20;hotaliza
+calabaza;cruda;28;0,70;0,10;6,30;hotaliza
+calabaza;cocidas;21;1,08;0,22;4,80;hotaliza
+calabacin;crudo;23;4,20;0,10;7,30;hotaliza
+cardo;crudo;24;2,30;0,30;5,30;hotaliza
+cardo;cocidos;17;1,40;0,20;3,60;hotaliza
+cebolla;crudo;38;1,30;0,20;8,80;hotaliza
+cebolla;cocidas;20,2;0,40;0,20;4,30;hotaliza
+Cebolla;frita;335;1,80;33,30;13,20;hotaliza
+col;cruda;28;1,70;0,20;6,10;hotaliza
+col;cocidas;15;1,30;0,10;2,60;hotaliza
+col;acida;23;1,40;0,30;4,10;hotaliza
+coldebruselas;cruda;42;3,80;0,50;8,20;hotaliza
+coldebruselas;cocidas;20;3,10;0,40;5,10;hotaliza
+colrizada;cruda;33;3,20;0,40;5,20;hotaliza
+coliflor;cruda;28;2,30;0,20;5,04;hotaliza
+coliflor;cocidacrudo;20;1,90;0,70;3;hotaliza
+colinabo;crudo;33;2,20;0,10;6,8;hotaliza
+champiñon;crudo;27;3,7;0,20;3,70;hotaliza
+chirivia;crudo;5,8;1,50;0,50;13,50;hotaliza
+chirivia;cocidos;34;1,10;0,40;8,50;hotaliza
+escarola;crudo;20;1,60;0,20;4,00;hotaliza
+esparragos;crdudos;25;2,30;0,20;4,10;hotaliza
+esparragos;cocidos;20;2,10;0,20;3,80;hotaliza
+espinacas;crudas;26;2,50;0,30;4,10;hotaliza
+espinacas;cocidas;20;2,20;0,20;5,20;hotaliza
+judiasverdes;crudas;35;2,30;0,20;6,20;hotaliza
+judiasverdes;cocidas;15;1,00;0,10;3,20;hotaliza
+lechuga;crudas;17;1,20;0,20;2,90;hotaliza
+lombarda;crudas;35;2,60;0,15;5,20;hotaliza
+mostaza;cruda;20;2,10;0,30;3,80;hotaliza
+nabos;crudos;30;1,80;0,30;5,80;hotaliza
+nabos;cocidos;21;1,30;0,20;4,70;hotaliza
+patata;cruda;85;2,10;0,20;19,00;hotaliza
+patata;cocida;65;1,70;0,30;15,40;hotaliza
+patata;asada;110;2,60;0,70;29,40;hotaliza
+patata;frita;230;3,30;10,60;30,10;hotaliza
+patata;pure;121;1,80;5,50;16,30;hotaliza
+patata;almidon;350;1,80;0,90;81,80;hotaliza
+pepino;crudo;10;0,70;0,15;2,70;hotaliza
+perejil;crudo;50;3,9;0,90;8,80;hotaliza
+pimienta;crudo;28;1,20;0,20;5,90;hotaliza
+pimiento;crudo;27;1,30;0,60;7,20;hotaliza
+pimiento;cocidos;18;0,90;0,25;4,50;hotaliza
+puerros;crudo;37;2,80;0,35;7,70;hotaliza
+rabanos;crudo;18;1,20;0,10;3,6;hotaliza
+remolacha;cruda;43;1,80;0,10;10,60;hotaliza
+remolacha;cocida;35;1,90;0,10;8,90;hotaliza
+repollo;crudo;25;1,60;0,20;5,20;hotaliza
+seta;cruda;17;1,90;0,30;3,80;hotaliza
+seta;frita;217;2,20;24,30;5,80;hotaliza
+tomate;cruda;21;1,30;0,25;4,00;hotaliza
+tomate;cocida;19;1,00;0,10;3,80;hotaliza
+tomate;frito;73;2,30;6,20;4,20;hotaliza
+tomate;jugo;18;0,80;1,20;3,50;hotaliza
+trufa;fresca;63;7,60;0,50;6,60;hotaliza
+trufa;seca;260;36,90;2,00;28,90;hotaliza
+verduras(medio);crudas;23;1,30;0,20;38,00;hotaliza
+zanahoria;cruda;40;1,10;0,30;8,80;hotaliza
+zanahoria;cocida;27;0,80;0,40;6,1;hotaliza
+albaricoque;crudo;45;0,8;0,6;9,9;frutafresca
+albaricoque;conserva;72;0,5;0,3;18;frutafresca
+albaricoque;jugo;50;0,45;0,7;11,8;frutafresca
+arandano;crudo;53;0,8;0,6;13,1;frutafresca
+cerezas;crudas;65;1,3;0,6;15,9;frutafresca
+cerezas;cocidas;23;0,8;0,4;9,1;frutafresca
+ciruelas;crudas;58;0,75;0,3;15,5;frutafresca
+frambuesas;crudas;45;1,1;0,5;11,1;frutafresca
+fresa;jugop;40;0,8;0,6;8,9;frutafresca
+freson;crudas;25;1,8;0,1;5,3;frutafresca
+granada;crudas;60;2,5;0,8;16,2;frutafresca
+grosella;crudas;42;1,3;0,2;9,5;frutafresca
+higocomun;crudas;69;1,3;0,4;16,1;frutafresca
+limon;crudas;36;1;1,5;9,3;frutafresca
+limon;crua;25;0,5;0,3;8,1;frutafresca
+mandarina;jugo;33;1,2;0,9;10,8;frutafresca
+mango;crudos;66;0,7;0,2;17,2;frutafresca
+manzana;crudos;52;0,3;0,4;13,8;frutafresca
+manzana;crudo;102;0,8;0,5;27;frutafresca
+melocoton;jugo;48;0,7;0,2;12,1;frutafresca
+melocoton;crudo;68;0,4;0,1;18,2;frutafresca
+melocoton;conserva;49,6;0,32;0,1;13,4;frutafresca
+melon;jugo;29;0,4;0,2;6,4;frutafresca
+membrillo;crudo;42;0,6;0,93;11,4;frutafresca
+mora;crudo;56;1,1;0,9;10,2;frutafresca
+naranja;juego;45;0,8;0,2;10,5;frutafresca
+naranja;crudas;44;0,7;0,2;10,1;frutafresca
+nispero;zumo;80;0,8;0,8;22,3;frutafresca
+peras;crudo;58;0,7;0,4;16,8;frutafresca
+peras;asadas;75;0,8;0,1;25,2;frutafresca
+peras;conserva;51;0,3;0,08;13,7;frutafresca
+piña;nectar;51;0,45;0,2;13,6;frutafresca
+piña;crudas;76;0,4;0,1;19,8;frutafresca
+piña;conserva;51;0,3;0,1;13,1;frutafresca
+platano;jugocrudo;91;1,2;0,3;21,8;frutafresca
+ruibardo;crudo;16;0,5;0,1;3,8;frutafresca
+sandia;crudo;31;0,5;0,2;6,9;frutafresca
+toronja;crudo;32;0,6;0,2;8;frutafresca
+uvablanca;crudo;74;0,8;1;17;frutafresca
+uva(jugo);fresco;38;2,5;0,1;8;frutafresca
+almortas;crudos;328;27,8;1,1;10;leguminosa
+garbanzos;crudos;355;21,8;5,1;12,6;leguminosa
+garbanzos;cocidos;150;10,2;5;65;leguminosa
+guisantes frescos;crudos;98;7,2;0,4;73,9;leguminosa
+guisantes frescos;cocidos;68;4;0,3;85;leguminosa
+guisantes secos;crudos;323;23,5;1,8;9,7;leguminosa
+guisantes secos;hervidos;77;6,9;0;73,3;leguminosa
+guisantes secos;conserva;91;5,9;0;73,7;leguminosa
+habas;crudos;315;29,4;1,5;14,5;leguminosa
+habas;cocidos;108;7,1;0,9;70,5;leguminosa
+judias blancas;crudas;320;20,8;1,7;62,5;leguminosa
+judias blancas;cocidas ;99;7,6;0,8;18,3;leguminosa
+judias rojas;crudas;332;20,1;1,5;63,5;leguminosa
+judias rojas;cocidas ;92;6,6;0,4;16,3;leguminosa
+lentejas secas;crudas;339;23,7;1,2;62,5;leguminosa
+lentejas secas;cocidas ;102;7,1;0,3;19,5;leguminosa
+soja fresca;crudas;135;13,9;4,8;10,3;leguminosa
+soja seca;crudas;342;34,9;18,1;34,3;leguminosa
+helado;natural;206;3,9;12;21;lacteo
+leche de burra;fresca;42;1,7;1,5;5,8;lacteo
+leche de cabra;fresca;68,00;3,60;4,40;4,50;lacteo
+leche de mujer;fresca;68,00;1,50;3,80;6,90;lacteo
+leche deoveja;fresca;86,00;5,60;5,50;5,70;lacteo
+leche de vaca;fresca;68,00;3,50;3,80;5,00;lacteo
+leche de vaca;desnatada;36,00;3,60;0,10;4,90;lacteo
+leche de vaca;concent.;157,00;7,60;8,60;11,10;lacteo
+leche vaca condens.;con azucar;348,00;8,10;8,90;54,80;lacteo
+leche de vaca;total seca;510,00;26,80;27,90;38,80;lacteo
+leche vaca cond. Desn.;seca;356,00;36,80;1,30;53,90;lacteo
+leche devaca;con cacao;100,00;3,30;4,30;12,00;lacteo
+mantequilla;fresca;718,00;0,68;81,30;0,70;lacteo
+nata;fresca;362,00;2,30;38,00;3,10;lacteo
+queso brugos;natural;190,00;12,10;14,60;3,16;lacteo
+queso cabrales;natural;400,00;26,70;34,70;2,10;lacteo
+queso emmertal;natural;397,00;26,80;30,50;2,30;lacteo
+queso gervaia;natural;415,00;19,70;36,00;2,00;lacteo
+queso gorgonzola;natural;365,00;24,50;28,00;1,80;lacteo
+queso graso;natural;270,00;8,00;25,00;3,00;lacteo
+queso gruyere;natural;420,00;33,00;32,20;4,00;lacteo
+queso magro;natural;200,00;39,00;1,80;4,20;lacteo
+queso manchego;natural;400,00;32,50;32,00;1,40;lacteo
+queso roquefort;natural;393,00;23,40;33,60;2,50;lacteo
+queso semigraso;natural;253,00;36,20;9,90;3,00;lacteo
+queso villalon;natural;450,00;17,50;46,00;1,90;lacteo
+requeson miraflores;natural;150,00;8,70;12,10;4,80;lacteo
+yogur;natural;62,00;3,80;3,50;4,30;lacteo
+Huevo entero;Crudo;155,00;13,60;10,90;0,55;huevo
+Huevo;Escalfado;154,00;12,20;11,30;0,60;huevo
+Huevo;Frito;220,00;13,60;17,50;2,00;huevo
+Huevo;Hervido;155,00;12,10;11,60;0,60;huevo
+Aceite higado bacalao;natural;916,00;0;99,80;0;aceite y grasa
+Mahonesa;natural;720,00;1,50;78,00;8,00;aceite y grasa
+Manteca Cerdo grasa;natural;893,00;0,50;99,20;0;aceite y grasa
+Margarina;natural;732,00;0,50;88,50;0,70;aceite y grasa
+Azucar;refinado;401,0;0;0;99,80;dulces
+Azucar;sin refinar;378,00;1,40;0;93,60;dulces
+Azucar de Uva;natural;391,00;0;0;99,00;dulces
+Caldo en Cubitos;natural;190,00;11,00;1,40;47,00;dulces
+Caramelos ;natural;397,00;2,40;11,60;79,50;dulces
+Confituras;natural;292,00;0,60;2,10;69,20;dulces
+Chocolate;amargo;561,00;5,70;53,30;38,00;dulces
+Chocolate;lacteado;558,00;7,40;31,30;53,00;dulces
+Jaleas;natural;270,00;3,10;0,30;67,00;dulces
+Levadura;prensada;96,00;13,10;0,28;12,20;dulces
+Levadura;seca;276,00;38,90;1,80;39,90;dulces
+Malta (extracto);seco;300,00;5,20;0;84,80;dulces
+Melaza;natural;242,00;2,40;0;69,60;dulces
+Miel de Abeja;natural;328,00;0,40;0;81,00;dulces
+Abadejo;fresco;58,00;13,60;0,30;0;pescado
+abadejo (seco);salado;361,00;81,50;2,70;0;pescado
+abadejo;cocido;107,00;23,70;1,10;0,70;pescado
+abadejo;frito;170,00;17,60;9,50;6,80;pescado
+almeja;fresco;81,00;13,50;1,60;8,40;pescado
+almeja;cocido;68,00;12,10;2,40;0;pescado
+anchoas;fresco;138,00;21,40;5,80;0,90;pescado
+anchoas;conserva;185,00;18,80;11,20;1,00;pescado
+anguila de rio;fresco;142,00;18,80;13,60;3,90;pescado
+anguila de rio;cocida;232,00;13,10;17,30;3,50;pescado
+arenque;fresco;120,00;16,80;8,70;0;pescado
+arenque;frito;212,00;21,90;13,70;1,50;pescado
+atun;fresco;148,00;18,90;9,10;0,30;pescado
+atun;conserva;261,00;33,20;14,60;0;pescado
+bacalao;fresco;64,00;14,30;0,50;6,50;pescado
+bacalao seco;salado;230,00;38,70;7,20;0;pescado
+balalao;cocido;94,00;19,20;3,10;5,00;pescado
+bacalao;frito;181,00;21,70;9,00;0;pescado
+barbo;fresco;95,00;15,20;4,60;0;pescado
+barbo;cocido;120,00;19,30;5,00;0;pescado
+barbo;frito;153,00;18,80;10,50;0;pescado
+bonito;fresco;147,00;26,70;4,50;0;pescado
+boqueron;fresco;110,00;21,20;3,20;0;pescado
+boqueron;conserva;177,00;22,00;10,20;0;pescado
+breca;fresca;75,00;17,00;0,90;0;pescado
+breca;frita ;146,00;19,60;8,30;0;pescado
+calamar;fresco;62,00;8,70;3,60;0;pescado
+calamar;cocido;73,00;9,40;4,30;0;pescado
+calamar;frito;118,00;10,10;9,20;0;pescado
+camaron;fresco ;121,00;26,50;1,60;4,20;pescado
+camaron;cocido;128,00;25,20;1,80;0,45;pescado
+cangrejo;fresco;89,00;14,20;2,70;1,60;pescado
+cangrejo;cocido;103,00;14,00;4,10;0;pescado
+carpa;fresco;97,00;19,40;1,90;0;pescado
+carpa;cocido;92,00;19,20;1,50;0;pescado
+carpa;frita ;115,00;20,10;4,60;0;pescado
+caviar;conserva;276,00;32,00;16,00;0;pescado
+centollo;fresco;64,00;13,60;2,50;0;pescado
+centollo;cocido;75,00;14,80;2,70;0;pescado
+congrio;fresco;98,00;15,70;4,50;0;pescado
+congrio;cocido;109,00;20,80;3,50;0;pescado
+congrio;frito;246,00;17,30;19,00;6,50;pescado
+chirla;fresco;79,00;12,80;1,40;3,40;pescado
+dorada;fresco;83,00;18,60;1,00;0;pescado
+dorada;cocido;91,00;19,90;1,40;0;pescado
+faneca;fresca;76,00;18,80;0,14;0;pescado
+faneca;cocida;83,00;20,10;0,40;0;pescado
+faneca;frita ;124,00;19,00;6,10;0;pescado
+gallo;fresco;79,00;19,00;1,20;0;pescado
+gallo;cocido;97,00;20,60;1,60;0;pescado
+gallo;frito;122,00;20,60;5,30;0;pescado
+gambas;fresco;96,00;20,10;2,00;0;pescado
+gambas;cocidas;107,00;22,30;2,40;0;pescado
+hipoglomo (halibut(;fresco;126,00;18,90;4,90;0;pescado
+langosta;frseca;90,00;17,50;1,80;0;pescado
+langosta;cocida;106,00;8,20;3,40;0;pescado
+langostino;fresco;240,00;45,70;10,20;0;pescado
+langostino;cocido;124,00;39,20;8,30;0;pescado
+lenguado;fresco;74,00;17,30;0,80;0;pescado
+lenguado;cocido;93,00;19,40;1,40;0;pescado
+lenguado;frito;221,00;20,10;15,30;0;pescado
+lija;cocida;98,00;21,80;0,90;0;pescado
+lija;frita ;169,00;17,00;8,20;0;pescado
+lubina;fresca;97,00;15,40;4,50;0;pescado
+lubina;cocida;123,00;19,50;5,10;0;pescado
+mecarel;fresca;160,00;18,90;9,30;0;pescado
+mecarel;frito;185,00;19,80;11,20;0;pescado
+mejillon;frsco;62,00;9,80;1,60;2,20;pescado
+mejillon;cocido;87,00;16,80;2,00;0;pescado
+merluza;fresco;87,00;16,70;2,30;0;pescado
+merluza;cocido;104,00;18,30;3,30;0;pescado
+merluza;frita ;170,00;18,30;9,30;6,20;pescado
+mero;fresco;86,00;19,20;1,04;0;pescado
+mero;cocido;107,00;20,40;3,40;0;pescado
+mujol;fresco;68,00;17,80;1,20;0;pescado
+mujol;cocido;123,00;21,60;4,00;0;pescado
+navajas;fresco;118,00;26,70;1,60;0;pescado
+ostras;fresco;53,00;9,60;1,50;3,80;pescado
+ostras;cocido;87,00;5,30;5,40;5,30;pescado
+percas;fresco;83,00;16,70;1,40;0;pescado
+percas;cocido;92,00;18,40;2,20;0,80;pescado
+percebes;cocido;75,00;19,20;1,90;0,80;pescado
+pescadilla;fresco;70,00;16,40;0,50;0;pescado
+pescadilla;cocido;95,00;20,90;0,80;1,20;pescado
+pescadilla;frito;183,00;19,60;10,70;2,80;pescado
+platija;fresco;80,00;15,80;1,70;0;pescado
+platija;cocido;90,00;16,90;1,50;0;pescado
+platija;frita ;219,00;15,40;13,00;9,30;pescado
+rana (ancas);fresco;72,00;16,30;0,30;0;pescado
+rana (ancas);frita ;283,00;22,00;7,90;8,80;pescado
+rape;fresco;73,00;15,80;1,40;0;pescado
+rape;cocido;82,00;16,50;2,10;0;pescado
+raya;frito;242,00;15,00;16,40;7,50;pescado
+rodaballo;fresco;81,00;18,10;1,20;0;pescado
+rodaballo;cocido;117,00;26,20;1,60;0;pescado
+salmon;fresco;145,00;21,50;7,80;0;pescado
+salmon;cocido;195,00;20,80;10,60;3,40;pescado
+salmon;conserva;155,00;20,30;8,20;0,20;pescado
+salmonete;fresco;69,00;13,50;1,80;0;pescado
+salmonete;cocido;118,00;21,40;4,30;0;pescado
+salmonete;frito;164,00;17,60;10,50;0,70;pescado
+sardina;fresco;141,00;21,80;6,30;1,70;pescado
+sardina;cocido;225,00;24,90;14,00;1,20;pescado
+sardina;frita ;347,00;19,60;33,40;0;pescado
+sardina;coserva ;209,00;19,80;14,50;0,90;pescado
+sollo;fresco;80,00;17,10;1,80;0;pescado
+sollo;cocido;122,00;23,20;4,00;0;pescado
+tenca;fresco;55,00;8,20;2,70;0;pescado
+tenca;cocido;88,00;16,00;3,10;0;pescado
+trucha;fresco;96,00;19,20;2,10;0;pescado
+trucha;cocido;133,00;22,30;3,80;1,30;pescado
+trucha;frita ;188,00;26,00;10,20;0;pescado
+vieira;fresco;73,00;14,80;1,90;0;pescado
+volador;fresco;87,00;15,80;3,00;0;pescado
+volador;cocido;130,00;21,60;5,90;0;pescado
+Carnero;cruda;210,00;17,50;16,00;0,20;carne
+Caballo;cruda;112,00;19,00;4,00;0,90;carne
+Cabra;cruda;127,00;19,60;4,30;0,50;carne
+Cabrito;cruda;40,00;7,20;1,60;0,10;carne
+Corazon;crudo;117;16,8;4,9;0,4;cerdo
+costillas magras;crudo;215;14,5;17;0,3;cerdo
+costillas magras;estofado;306;22,1;24,2;2,1;cerdo
+costillas magras;frito;308;21,5;26,6;0;cerdo
+costillas semimagr.;estofado;505;18,6;50,3;0;cerdo
+costillas semimagr.;frito;560;15,2;62;0;cerdo
+higado;crudo;134;19,4;4,9;1,8;cerdo
+higado;frito;236;22,7;10,8;9,5;cerdo
+Jamon;crudo;262;15,8;18,7;0,3;cerdo
+Jamon;cocido;354;20,3;32,1;0,3;cerdo
+jamon York;crudo;454;17,2;43;0,8;cerdo
+jamon York;cocido;435;16,2;39,6;0;cerdo
+lomo graso;asado;412;23,7;35,8;0;cerdo
+lomo graso;estofado;404;18,6;41,3;0;cerdo
+lomo graso;frito;489;16,1;53,2;0;cerdo
+lomo magro;asado;271;26,1;18,1;0;cerdo
+lomo magro;estofado;285;20,3;23,2;1,8;cerdo
+lomo magro;frito;316;19,6;28,1;0;cerdo
+manteca;crudo;877;0,8;98;0;cerdo
+pierna;asado;317;24,6;23,2;0;cerdo
+promedio;natural;736;3,9;80;0;cerdo
+riñon;crudo;105;15,2;4,3;0,8;cerdo
+tocino;salado;763;6,6;80,2;0,7;cerdo
+corazon;crudo ;130;15,4;7,1;1;ternera
+costillas;crudo ;135;19,5;7,5;0,4;ternera
+costillas;asado;232;30,5;12,6;0,3;ternera
+costillas;frito;296;27,5;20,1;4,4;ternera
+filete;crudo ;108;20,1;2,7;0;ternera
+filete;asado;232;30,5;11,5;0;ternera
+higado;crudo ;134;18,7;5,2;3,6;ternera
+higado;cocido;167;20,7;7;4,7;ternera
+higado;frito;237;26,5;13,3;3,7;ternera
+lechecillas;crudo ;103;17,6;3,8;0;ternera
+lechecillas;estofado;162;22,7;8,1;0;ternera
+lengua;estofado;190;15,9;14,8;0,1;ternera
+promedio;natural;184;19,1;12;0;ternera
+riñon;cocido;102;15,4;4,8;0;ternera
+riñon;frito;182;14,8;15,3;0;ternera
+sesos;cocido;115;10,3;8,3;0,8;ternera
+solomillo;crudo ;93;19,3;1,6;2,3;ternera
+solomillo;asado;192;28,7;8,5;3,2;ternera
+solomillo;frito;268;23,8;20,1;0;ternera
+tripas;cocido;99;18;3,4;0;ternera
+Carne;cocida;165;23,3;9,2;0;cordero
+Bistec;crudo;177;19,2;10,5;0;vaca
+Bistec;frito;273;20,4;20,4;0;vaca
+Carne;crudo;140;18,2;7,5;0,3;vaca
+Carne;congelado;142;20,3;7,3;0;vaca
+Carne semigrasa;crudo;246;17,1;16,2;0,3;vaca
+Carne semigrasa;asado;355;18,1;25,2;0;vaca
+Carne semigrasa;cocido;210;32,5;8,2;0,4;vaca
+Corazon;crudo;112;17,2;4,6;0,7;vaca
+Costilla;cocido;280;26,3;5,8;0;vaca
+Falda;cocido;413;18,1;38;0;vaca
+Higado;crudo;130;20;3,5;3,8;vaca
+Higado;cocido;148;23;7,8;4;vaca
+Higado;frito;229;26;9,1;9,5;vaca
+Lengua;crudo;210;15,8;16,3;0,4;vaca
+Lengua;cocido;239;19,3;15,3;0,5;vaca
+Promedio;cocido;268;17,5;22;0;vaca
+Riñon;crudo;122;16,2;6;0,8;vaca
+Riñon;cocido;165;27;5,4;0;vaca
+sangre;crudo;77;18,1;0,2;0;vaca
+sesos;crudo;120;10;8,5;0,8;vaca
+sesos;cocidos;126;10,4;9,2;0;vaca
+solomillo;crudo;120;21;3,9;0,6;vaca
+solomillo;asado;214;25,3;12,1;1;vaca
+solomillo;cocido;172;22;9,1;0;vaca
+solomillo;frito;279;19,1;23,2;0;vaca
+tripas;crudo;96;17;2;0,15;vaca
+Butifarra;Natural;150,00;9,80;13,40;0;enbutido
+Chorizo;natural;614,00;13,60;70,20;0;enbutido
+Chorizo;frito;360,00;19,60;60,80;0;enbutido
+Morcilla;natural;258,00;5,30;22,50;14,70;enbutido
+Morcilla;cocido;335,00;13,70;29,10;15,30;enbutido
+Morcilla;frita;453,00;13,90;42,90;15,90;enbutido
+salchicha de cerdo;natural;390,00;9,80;36,30;9,80;enbutido
+salchicha de cerdo;cocida;360,00;16,50;28,60;7,00;enbutido
+salchicha de cerdo;frita;326,00;13,40;29,30;12,70;enbutido
+salchicha de vaca;natural;140,00;9,10;8,30;10,50;enbutido
+salchicha de vaca;cocida;210,00;15,60;12,10;13,60;enbutido
+salchicha de vaca;frita;264,00;13,80;18,40;15,70;enbutido
+salchicha de Frankfurt;natural;248,00;14,00;20,00;2,00;enbutido
+Salchichon;Natural;430,00;20,30;36,70;0,10;enbutido
+albaricoque;seco;268;5,3;0,4;67,6;fruto seco
+almendras;seco;612;19,7;54,5;17,6;fruto seco
+avellana;seco;620;15,5;62,2;15,5;fruto seco
+cacahuete;seco;550;26,1;44,2;20;fruto seco
+cacahuete;tostado;610;26,5;48,1;18,3;fruto seco
+cacao;polvo;340;26;18,8;38;fruto seco
+castaña seca;cruda;350;8,2;3,5;75,3;fruto seco
+castaña tierna;cruda;188;3,2;2,5;40;fruto seco
+ciruela pasa;cruda;262;2,4;0,6;72;fruto seco
+coco;fresco;350;3,8;34,8;14,8;fruto seco
+coco;leche;25;0,4;0,2;5,8;fruto seco
+coco;seco;580;4,7;48;41,3;fruto seco
+datiles;secos;271;2,2;0,6;72;fruto seco
+higos;secos;280;3,9;1,3;67,2;fruto seco
+melocoton;secos;253;3;0,5;63;fruto seco
+nuez;secos;643;17,8;57,6;17,6;fruto seco
+piñones;secos;310;26,4;40;29,2;fruto seco
+uva;pasa;288;3,1;0,9;69,2;fruto seco
